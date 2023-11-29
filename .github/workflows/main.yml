@@ -1,0 +1,3 @@
+- name: Close Pull Request
+  uses: superbrothers/close-pull-request@v3.1.2
+
